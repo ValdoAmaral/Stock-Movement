@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "635372803976",
+    "project_id": "seppastock",
+    "storage_bucket": "seppastock.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635372803976:android:c08377eb607818b8f60c3d",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_stock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635372803976-93o0l92egmn45126qha3gv9r8s4e1lfa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhsLbVQzwQYmdhh1OEZcn1ByTFdbqbCSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "635372803976-93o0l92egmn45126qha3gv9r8s4e1lfa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
